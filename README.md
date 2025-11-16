@@ -1,0 +1,2 @@
+# MineFunKing
+Minefun.io Hack
